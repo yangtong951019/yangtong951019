@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yangtong951019
 - 👀 I’m interested in Java and Python
-- 🌱 I’m currently learning Java basic and data structure
-- 💞️ I’m looking to find a job in my Country 
+- 🌱 I’m currently learning Java and data structure
+- 💞️ I’m looking to find a job 
 - 📫 How to reach me yangtong951019@gmail.com
 
 <!---
