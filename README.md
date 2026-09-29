@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @yangtong951019
-- 👀 I’m interested in Java and Python
-- 🌱 I’m currently learning Java and data structure
-- 💞️ I’m looking to find a job 
-- 📫 How to reach me yangtong951019@gmail.com
+👋 Hi, I’m @yangtong951019 — Tong Yang
 
-<!---
-yangtong951019/yangtong951019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧑‍💻 Software Engineer | Backend Systems & Applied AI
+🔭 Currently building: ai-incident-agent — an AI triage agent that takes Prometheus alerts in and produces LLM-powered root-cause analysis (RAG + tool use + workflow)
+🛠️ Java · Spring Boot · Docker · Kafka · Observability (Prometheus / Grafana / Loki) · LLM Applications
+🌱 Learning: agentic AI workflows, cloud-native backend, evaluation-driven LLM engineering
+📫 Reach me: yangtong951019@gmail.com
